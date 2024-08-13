@@ -1,0 +1,35 @@
+body {
+  width: 20rem;
+}
+
+.group {
+  background-color: #eee;
+  margin: 20px 5px;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+button {
+  padding: 10px;
+  border: 0;
+  border-radius: 8px;
+  background-color: tomato;
+  cursor: pointer;
+  color: white;
+  font-weight: 600;
+}
+
+ul {
+  list-style-type: decimal;
+  padding-inline-start: 0;
+  margin: 1rem;
+}
+
+li {
+  margin: 15px 0;
+}
+
+h3,
+p {
+  margin: 0;
+}
